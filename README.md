@@ -1,3 +1,3 @@
 # TaskIt
-This is my first php project
-It was about making a task managing website
+This is my first php project <br>
+It was about making a task managing website the provide user-friendly interface
